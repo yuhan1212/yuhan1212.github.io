@@ -3,8 +3,8 @@
 @import url("https://fonts.googleapis.com/css?family=Scope+One|Trocchi");
 
 /*
-	User Name: Yu-Han (Hannah) Chi
-	Site URL: https://yuhan1212.github.io/
+	 User Name: Yu-Han (Hannah) Chi
+    Site URL: https://yuhan1212.github.io/
 
 */
 
@@ -15,7 +15,7 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font-family: "Open Sans", "sans-serif";
+		font-family: "Open Sans","Noto Sans","Arial","Helvetica", sans-serif;
 		vertical-align: baseline;
 	}
 
