@@ -218,7 +218,7 @@
 
 /* Grid */
 
-  /*  .row {
+   .row {
         border-bottom: solid 1px transparent;
         -moz-box-sizing: border-box;
         -webkit-box-sizing: border-box;
@@ -247,7 +247,7 @@
         margin-bottom: 0;
     }
 
-    .row.\30 \25 > * {
+    /*.row.\30 \25 > * {
         padding: 0 0 0 0em;
     }
 
