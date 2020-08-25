@@ -14,7 +14,7 @@
         margin: 0;
         padding: 0;
         border: 0;
-        font-size: 100%;
+        font-size: 103%;
         font-family: "Open Sans","Noto Sans","Arial","Helvetica", sans-serif;
         vertical-align: baseline;
     }
@@ -429,7 +429,7 @@
     ul {
         list-style: disc;
         margin: 0 0 2em 0;
-        padding-left: 1em;
+        padding-left: 5em;
     }
 
         ul li {
@@ -669,7 +669,7 @@
             overflow: hidden;
             position: absolute;
             top: 1.5em;
-            font-size: 120%;
+            font-size: 115%;
 			font-weight:bold;
         }
 
