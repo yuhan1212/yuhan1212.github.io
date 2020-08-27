@@ -939,23 +939,23 @@
 
     /* Three Column Content */
 
-    #three-column {
+    .three-column {
         overflow: hidden;
         padding: 10px 0px 50px 0px;
     }
 
-    #three-column #tbox1 {
+    .three-column .tbox1 {
         float: left;
         width: 384px;
         margin-right: 20px;
     }
 
-    #three-column #tbox2 {
+    .three-column .tbox2 {
         float: left;
         width: 384px;
     }
 
-    #three-column #tbox3 {
+    .three-column .tbox3 {
         float: right;
         width: 384px;
     }
