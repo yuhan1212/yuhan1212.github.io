@@ -939,23 +939,23 @@
 
     /* Three Column Content */
 
-    .three-column {
+    #three-column {
         overflow: hidden;
         padding: 10px 0px 50px 0px;
     }
 
-    .three-column .tbox1 {
+    #three-column #tbox1 {
         float: left;
         width: 384px;
         margin-right: 20px;
     }
 
-    .three-column .tbox2 {
+    #three-column #tbox2 {
         float: left;
         width: 384px;
     }
 
-    .three-column .tbox3 {
+    #three-column #tbox3 {
         float: right;
         width: 384px;
     }
@@ -1024,3 +1024,85 @@
         width: 384px;
         padding: 30px;
     }
+#three-column3 {
+        overflow: hidden;
+        padding: 10px 0px 50px 0px;
+    }
+
+    #three-column3 #tbox7 {
+        float: left;
+        width: 384px;
+        margin-right: 20px;
+    }
+
+    #three-column3 #tbox8 {
+        float: left;
+        width: 384px;
+    }
+
+    #three-column3 #tbox9 {
+        float: right;
+        width: 384px;
+    }
+
+    .box-style {
+        background: #191919;
+    }
+
+    .box-style h2 {
+        padding: 10px 0px;
+        letter-spacing: -1px;
+        font-size: 20px;
+        color: #FFFFFF;
+    }
+
+    .box-style .image {
+        width: 324px;
+        
+    }
+
+    .box-style .content {
+        width: 384px;
+        padding: 30px;
+    }
+#three-column4 {
+        overflow: hidden;
+        padding: 10px 0px 50px 0px;
+    }
+
+    #three-column4 #tbox10 {
+        float: left;
+        width: 384px;
+        margin-right: 20px;
+    }
+
+    #three-column4 #tbox11 {
+        float: left;
+        width: 384px;
+    }
+
+    #three-column4 #tbox12 {
+        float: right;
+        width: 384px;
+    }
+
+    .box-style {
+        background: #191919;
+    }
+
+    .box-style h2 {
+        padding: 10px 0px;
+        letter-spacing: -1px;
+        font-size: 20px;
+        color: #FFFFFF;
+    }
+
+    .box-style .image {
+        width: 324px;
+        
+    }
+
+    .box-style .content {
+        width: 384px;
+        padding: 30px;
+    }	
