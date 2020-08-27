@@ -918,7 +918,7 @@
 
     .box-style h2 {
         padding: 10px 0px;
-        letter-spacing: -1px;
+        letter-spacing: 0px;
         font-size: 28px;
         color: #FFFFFF;
     }
